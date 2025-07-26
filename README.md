@@ -51,7 +51,7 @@ Saya adalah rookie yang baru memulai perjalanan di dunia programming. Saat ini s
 ---
 
 ## 🤝 Let's Connect!
-[![TikTok](https://pngate.com/wp-content/uploads/2025/03/tiktok-app-icon-logo-2025-1.png)](https://www.tiktok.com/@valdybuana?_t=ZS-8yJcIUGuVR2&_r=1m)
+[![TikTok:](https://www.tiktok.com/@valdybuana?_t=ZS-8yJcIUGuVR2&_r=1m)
 
 ---
 
