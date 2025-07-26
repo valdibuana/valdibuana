@@ -13,17 +13,17 @@ Saya adalah rookie yang baru memulai perjalanan di dunia programming. Saat ini s
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
-![JavaScript](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s)
-![React](https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png)
-![PHP](https://pngdownload.io/wp-content/uploads/2024/02/PHP-Logo-symbol-of-the-scripting-language-web-development-transparent-PNG-image-jpg.webp)
-![HTML5](https://e7.pngegg.com/pngimages/185/866/png-clipart-html-logo-html-web-design-scalable-graphics-world-wide-web-markup-language-html5-icon-hd-miscellaneous-angle-thumbnail.png)
-![CSS3](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
+![JavaScript]
+![React]
+![PHP]
+![HTML5]
+![CSS3]
 
 ### Tools & Environment
-![Git](https://git-scm.com/images/logos/logomark-orange@2x.png)
-![GitHub](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
-![VS Code](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png)
-![Node.js](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png)
+![Git]
+![GitHub]
+![VS Code]
+![Node.js]
 
 ---
 
