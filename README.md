@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Valdi Buana]
+# Hi there! 👋 I'm Valdi Buana
 
 ## 🎓 About Me
 Saya adalah rookie yang baru memulai perjalanan di dunia programming. Saat ini sedang fokus mempelajari web development dan sangat antusias untuk terus belajar teknologi baru!
